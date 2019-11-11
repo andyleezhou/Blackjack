@@ -1,0 +1,11 @@
+C:\Users\andyl\Documents\08 c#\blackjack\starter\obj\Debug\netcoreapp3.0\starter.csprojAssemblyReference.cache
+C:\Users\andyl\Documents\08 c#\blackjack\starter\obj\Debug\netcoreapp3.0\starter.AssemblyInfoInputs.cache
+C:\Users\andyl\Documents\08 c#\blackjack\starter\obj\Debug\netcoreapp3.0\starter.AssemblyInfo.cs
+C:\Users\andyl\Documents\08 c#\blackjack\starter\bin\Debug\netcoreapp3.0\starter.exe
+C:\Users\andyl\Documents\08 c#\blackjack\starter\bin\Debug\netcoreapp3.0\starter.deps.json
+C:\Users\andyl\Documents\08 c#\blackjack\starter\bin\Debug\netcoreapp3.0\starter.runtimeconfig.json
+C:\Users\andyl\Documents\08 c#\blackjack\starter\bin\Debug\netcoreapp3.0\starter.runtimeconfig.dev.json
+C:\Users\andyl\Documents\08 c#\blackjack\starter\bin\Debug\netcoreapp3.0\starter.dll
+C:\Users\andyl\Documents\08 c#\blackjack\starter\bin\Debug\netcoreapp3.0\starter.pdb
+C:\Users\andyl\Documents\08 c#\blackjack\starter\obj\Debug\netcoreapp3.0\starter.dll
+C:\Users\andyl\Documents\08 c#\blackjack\starter\obj\Debug\netcoreapp3.0\starter.pdb
